@@ -1,6 +1,8 @@
 # Python-Database-With-GUI-CRUD-
 Python CRUD application with GUI and MYSQL database using Pycharm
 MYSQL DATABASE  GUI PYTHON PYCHARM
+
+create database name="mini_project" and import sql file
 Develop by: J A S Madushanka
 Email:sehanmadushanka0714@gmail.com
 
